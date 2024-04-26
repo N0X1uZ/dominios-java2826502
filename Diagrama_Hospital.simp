@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="13.96" multi-file="no" uid="simpf2d462d0be484a43ad518b88d307df53">
+  <meta>
+    <name>Taller 2 POO java 2826502</name>
+    <authors> Juan Felipe monterrey y Daniel Cano Rojas </authors>
+    <description />
+  </meta>
+  <counters>
+    <entity-names />
+    <entity-ids />
+    <diagrams />
+    <fields />
+  </counters>
+  <alias-groups />
+  <management uid="md-1c8126c4a7b4474fafd159d02cc059e4" name="" task-id-sequence="0">
+    <persons>
+      <person id="">
+        <first-name />
+        <last-name />
+        <role />
+        <e-mail />
+        <phone-number />
+        <description />
+        <color>#00000000</color>
+      </person>
+    </persons>
+    <teams />
+    <sprints />
+    <projects />
+    <modules />
+    <tasks />
+    <to-dos />
+  </management>
+  <glossary id="glsr-acbcd86137c4483eb64a9eee90abfcd9" />
+  <types default="UML">
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types>
+      <parameters />
+      <types />
+    </custom-types>
+  </types>
+  <items />
+  <models />
+</sim-project>
